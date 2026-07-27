@@ -40,7 +40,7 @@
 визуально связывает категории и делает статичную диаграмму более живой
 ### Исходный код: [bar_chart.py](data_visualization/bar_chart.py)
 
-<br><br><br><br>
+<br><br><br>
 
 <img alt="Анализ распределений в сетке" src="data_visualization/grid_histogram.png" align='right' width='50%'>
 
@@ -50,7 +50,7 @@
 когда нужно охватить взглядом несколько переменных.
 ### Исходный код: [grid_histogram.py](data_visualization/grid_histogram.py)
 
-<br><br><br><br>
+<br><br><br>
 
 ### 3. Диаграмма рассеяния.
 
