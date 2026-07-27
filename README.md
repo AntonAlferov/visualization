@@ -22,4 +22,7 @@
 Высокий контраст это ключевое требование доступности (WCAG). Это делает графики понятными и читабельными
 для людей с различными особенностями зрения.
 
-Посмотреть исходный код стиля: [custom_dark_theme.py](custom_theme/custom_dark_theme.py)
+### Исходный код: 
+* **стиля визуализации:** [custom_dark_theme.py](custom_theme/custom_dark_theme.py)<br>
+* **гистограммы плотности:** [wine_histogram.py](data_visualization/wine_histogram.py)<br>
+* **загрузки данных:** [config_test_data.py](data_visualization/config_test_data.py)
