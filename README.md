@@ -52,9 +52,10 @@
 
 <br><br><br><br>
 
-<img alt="Анализ распределений в сетке" src="data_visualization/grid_histogram.png" align='right' width='50%'>
-
 ### 3. Диаграмма рассеяния.
+
+<img alt="Диаграмма рассеяния" src="data_visualization/scatter_plot.png" align='center' width='100%'>
+
 scatter plot - мощный инструмент для нахождения сложных зависимостей в многомерных данных на одной плоскости.
 
-### Исходный код: [grid_histogram.py](data_visualization/grid_histogram.py)
+### Исходный код: [scatter_plot.py](data_visualization/scatter_plot.py)
