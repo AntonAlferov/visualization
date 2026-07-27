@@ -49,3 +49,12 @@
 быстрого сравнения распределений различных признаков. Такой подход идеален для исследовательского анализа данных (EDA),
 когда нужно охватить взглядом несколько переменных.
 ### Исходный код: [grid_histogram.py](data_visualization/grid_histogram.py)
+
+<br><br><br><br>
+
+<img alt="Анализ распределений в сетке" src="data_visualization/grid_histogram.png" align='right' width='50%'>
+
+### 3. Диаграмма рассеяния.
+scatter plot - мощный инструмент для нахождения сложных зависимостей в многомерных данных на одной плоскости.
+
+### Исходный код: [grid_histogram.py](data_visualization/grid_histogram.py)
