@@ -84,7 +84,7 @@ scatter plot - мощный инструмент для нахождения с�
 То что мы большую часть денег тратим на продукты меня не удивило.
 Но доходы пенсионеров.. Я думал они значительно меньше..
 
-<br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <img alt="Корреляция Пирсона" src="data_visualization/pearson_correlation.png" align='right' width='50%'>
 
@@ -95,4 +95,4 @@ scatter plot - мощный инструмент для нахождения с�
 Зумеры связаны с алкоголем, такси, кафе, и азартными играми.<br>
 А пенсионеры часто ездят на поездах, читают книги и отжимают в суде квартиры :))
 
-### Исходный код и анализ: [scatter_plot.py](data_visualization/scatter_plot.py)
+### Исходный код и анализ: [analysis_sber_transactions.ipynb](data_analysis_Sber/analysis_sber_transactions.ipynb)
